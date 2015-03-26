@@ -25,7 +25,7 @@ namespace ExceptionFilters
             {
                 conn.Open();
             }
-            catch (SqlException sqlEx) if (sqlEx.ErrorCode > 999)
+            catch (SqlException sqlEx) when (sqlEx.ErrorCode > 999)
             {
 
             }
