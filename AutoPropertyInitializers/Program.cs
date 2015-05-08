@@ -20,7 +20,7 @@
         }
         public string Name { get; set; }
 
-        //getter only properties not allowed before C# 6.0
+        //getter only properties were not allowed before C# 6.0
         //public string Foo { get; }
 
         public BeforeCSharp6()

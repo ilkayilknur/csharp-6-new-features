@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.22310.1
+VisualStudioVersion = 14.0.22823.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3613F3F6-2722-414A-9C41-646868239780}"
 EndProject
@@ -22,8 +22,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringInterpolation", "StringInterpolation\StringInterpolation.csproj", "{9F456B41-BBDD-4DF0-8B03-033B12E45F5D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameofExpressions", "NameofExpressions\NameofExpressions.csproj", "{A54A33C0-1B64-4733-A79A-F5346F59D179}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParameterlessConstructorsInStructs", "ParameterlessConstructorsInStructs\ParameterlessConstructorsInStructs.csproj", "{F772B115-5A61-4DA6-B173-3699CE4D5295}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -67,10 +65,6 @@ Global
 		{A54A33C0-1B64-4733-A79A-F5346F59D179}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A54A33C0-1B64-4733-A79A-F5346F59D179}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A54A33C0-1B64-4733-A79A-F5346F59D179}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F772B115-5A61-4DA6-B173-3699CE4D5295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F772B115-5A61-4DA6-B173-3699CE4D5295}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F772B115-5A61-4DA6-B173-3699CE4D5295}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F772B115-5A61-4DA6-B173-3699CE4D5295}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -85,6 +79,5 @@ Global
 		{876F0DB9-C463-46B8-9EA5-DD78B40D8C9E} = {3613F3F6-2722-414A-9C41-646868239780}
 		{9F456B41-BBDD-4DF0-8B03-033B12E45F5D} = {3613F3F6-2722-414A-9C41-646868239780}
 		{A54A33C0-1B64-4733-A79A-F5346F59D179} = {3613F3F6-2722-414A-9C41-646868239780}
-		{F772B115-5A61-4DA6-B173-3699CE4D5295} = {3613F3F6-2722-414A-9C41-646868239780}
 	EndGlobalSection
 EndGlobal
